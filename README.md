@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Aryan Raj 👋
 
-<!--
-**AryanRaj-015/AryanRaj-015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming Undergraduate Student passionate about exploring research at the intersection of data, technology, and problem-solving.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Transitioning into college 
+- 🔍 Actively building a strong foundation in research methodologies and data analysis
+- 🛠️ Currently teaching myself Python and foundational data tools
+- 🖥️ Currently learning about Cybersecurity from Google Cybersecurity Course in Coursera
+- 🧠 Always been curious about Technology, Cybersecurity and new scientific inovations
+  
+## 💻 Tech Stack & Tools
+- **Languages:** Python (Learning), SQL (Learning)
+- **Tools:** Git, GitHub, Markdown
+- **Research Tools:** Zotero (Learning), Overleaf/LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goals
+- [ ] Complete introductory Python data science tracks
+- [ ] Replicate my first research-based dataset visualization
+- [ ] Read and summarize 5 major review papers in my field of interest
+
+---
+*“Striving to turn raw curiosity into structured academic insight.”*
