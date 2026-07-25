@@ -15,7 +15,7 @@ Incoming Undergraduate Student passionate about exploring research at the inters
 - **Research Tools:** Zotero (Learning), Overleaf/LaTeX
 
 ## 🎯 Current Goals
-- [ ] Complete introductory Python data science tracks
+- [ ] Complete introductory Python Course
 - [ ] Replicate my first research-based dataset visualization
 - [ ] Read and summarize 5 major review papers in my field of interest
 
