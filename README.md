@@ -10,7 +10,7 @@ Incoming Undergraduate Student passionate about exploring research at the inters
 - 🧠 Always been curious about Technology, Cybersecurity and new scientific inovations
   
 ## 💻 Tech Stack & Tools
-- **Languages:** Python (Learning), SQL (Learning), c/c++
+- **Languages:** Python (Learning), SQL (Learning), C/C++
 - **Tools:** Git, GitHub, Markdown, SIEM Tools, Linux 
 - **Research Tools:** Zotero (Learning), Overleaf/LaTeX
 
